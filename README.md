@@ -1,2 +1,2 @@
 # javascript_menu_project
-Restaurant menu
+Restaurant menu, cloned
